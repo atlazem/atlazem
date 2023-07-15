@@ -1,4 +1,4 @@
-Hi there 👋
+<b>Hi there 👋</b>
 
 
 Im Youssef Mourchid, a software engineer studies in 1337/42 programming school.
