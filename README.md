@@ -2,7 +2,7 @@
 
 Im Youssef Mourchid, a software engineer studies in 1337 programming school.
 
-<b>About Me 🧑‍🎓</b>
+<b>About Me 📕</b>
 
 I'm interested in Web dev and AI domaines.
 
