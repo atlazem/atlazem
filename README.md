@@ -15,5 +15,7 @@ func DefineMySelf() {
 }
 
 func main() {
+
   DefineMySelf();
+  
 }
