@@ -1,22 +1,21 @@
-[Bio]
-#!/usr/bin/go
-# -*- coding: utf-8 -*-
+      #!/usr/bin/go
+      # -*- coding: utf-8 -*-
 
-package main
+      package main
 
-import ("fmt")
+      import ("fmt")
 
-func DefineMySelf() {
+      func DefineMySelf() {
 
-      name := "Mourchid Youssef"
-      role := "Software Engineer"
-      language_spoken := ["ar_AR", "en_US", "fr_FR"]
+            name := "Mourchid Youssef"
+            role := "Software Engineer"
+            language_spoken := ["ar_AR", "en_US", "fr_FR"]
       
-      fmt.Println("Hi there 👋");
-}
+            fmt.Println("Hi there 👋");
+      }
 
-func main() {
+      func main() {
 
-  DefineMySelf();
+              DefineMySelf();
   
-}
+      }
