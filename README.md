@@ -1,11 +1,19 @@
-<b><center>Hi there 👋</center></b>
+#!/usr/bin/go
+# -*- coding: utf-8 -*-
 
-Im Youssef Mourchid, a software engineer studies in 1337 programming school.
+package main
 
-<b>About Me 📕</b>
+import ("fmt")
 
-I'm interested in Web dev and AI domaines.
+func DefineMySelf() {
 
-<b>42 PROFILE 🧑‍🎓</b>
+      name := "Mourchid Youssef"
+      role := "Software Engineer"
+      language_spoken := ["ar_AR", "en_US", "fr_FR"]
+      
+      fmt.Println("Hi there 👋");
+}
 
-[![ymourchi's 42 stats](https://badge42.vercel.app/api/v2/clk07avui004008ky5jenrwmr/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
+func main() {
+  DefineMySelf();
+}
